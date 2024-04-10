@@ -10,20 +10,17 @@ I have been working as a programmer for 2 years <br> and I have become very prof
 
 Area
 -----------------------------
-<h4> <bold>* Web Programmer And Developer </bold></h4>
-<h4> <bold>* Android Programmer And Developer </bold></h4>
-<h4> <bold>* Desktop Programmer And Developer </bold></h4>
-<h4> <bold>* Cross Platform Developer </bold></h4>
+*   Web Programmer And Developer
+*   Android Programmer And Developer
+*   Desktop Programmer And Developer
+*   Cross Platform Developer
                   
+Contact Me
+-----------------------------
+*   phone number:  (+98) 9301660591
+*   Email:  amirhosseingholami918@gmail.com
 
-### Socials
-                  
-<p align="left">
-    <a href="https://www.instagram.com/nulldevelopr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-<a href="https://www.github.com/badrnezhad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-  <a href="https://badrnezhad.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
-  <a href="https://www.linkedin.com/in/badrnezhad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-  <a href="https://www.twitter.com/badrnezhad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
 
 ### Badges
 
