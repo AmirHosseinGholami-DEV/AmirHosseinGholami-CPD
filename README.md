@@ -1,7 +1,7 @@
-My name is Hossein Badrnezhad
+Amir Hossein Gholami
 ===============================
 
-Developer & Lecturer
+Programmer and Web developer
 -----------------------------
 
 *   🖥️  See my portfolio at [badrnezhad.com](https://badrnezhad.com)
