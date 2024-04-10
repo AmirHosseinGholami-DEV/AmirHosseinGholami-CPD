@@ -4,29 +4,18 @@ Amir Hossein Gholami
 Programmer and Web developer
 -----------------------------
 
-See my portfolio at [badrnezhad.com](https://badrnezhad.com) <br>
-I'm currently working on [Holosen](https://holosen.net)
-I'm open to collaborating on interesting projects as a web and android developer
+Hello dear users <br>
+My name is Amir Hossein Gholami. <br>
+I have been working as a programmer for 2 years <br> and I have become very professional in this field and now I am doing advanced projects.
 
-<a href="https://www.twitter.com/badrnezhad" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/badrnezhad?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a><a href="https://www.github.com/badrnezhad" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/badrnezhad?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+Area
+-----------------------------
+<h4> <bold>* Web Programmer And Developer </bold></h4>
+<h4> <bold>* Android Programmer And Developer </bold></h4>
+<h4> <bold>* Desktop Programmer And Developer </bold></h4>
+<h4> <bold>* Cross Platform Developer </bold></h4>
                   
-### Skills
-<p align="left">
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
-    <a href="https://java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-      <a href="https://angularjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-          <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-            <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="CSharp" /></a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt="DotNet" /></a>
-    <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-</p>
-                    
+
 ### Socials
                   
 <p align="left">
