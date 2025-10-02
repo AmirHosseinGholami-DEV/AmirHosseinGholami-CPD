@@ -36,3 +36,13 @@
 - 🏆 **Ranked among the Top 10 Young Developers in Iran (WordSkills & Khwarizmi Festival)**  
 - ✅ **Delivered multiple full-stack projects with high-quality backend systems**  
 - 💡 **Constantly exploring new frameworks, tools, and technologies to stay ahead**
+
+###
+
+<h1 align="left">💡 What I Love:</h1>
+
+###
+- 🔍 **Solving complex and interesting problems**  
+- ⚡ **Building scalable, reliable, and maintainable systems**
+- 🚀 **Continuously learning, experimenting, and pushing limits**  
+- 💪 **Turning challenges into opportunities for growth**
