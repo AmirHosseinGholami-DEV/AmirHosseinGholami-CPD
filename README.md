@@ -86,3 +86,19 @@
 - ⚡ **Building scalable, reliable, and maintainable systems**
 - 🚀 **Continuously learning, experimenting, and pushing limits**  
 - 💪 **Turning challenges into opportunities for growth**
+
+## 📬 Contact
+
+###
+
+<div align="left">
+    <a href="mailto:masudpythongit@gmail.com">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
+  <a href="https://www.linkedin.com/in/masoud-ghasemi-748412381">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://t.me/Masoud_Ghasemi_sorna_fast">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  /></a>
+</div>
+
+###
