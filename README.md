@@ -12,9 +12,10 @@
 <h1 align="left">👋 Hello, I'm Amir Hossein Gholami</h1>
 
 ###
+- **Python 3.x**
 
-💻 **Full-Stack Developer** | 🐍 **Backend Specialist**  
-⚡ **Expert in Django & Django REST Framework (DRF)**  
-🏆 **Top 10 Young Developers in Iran**  
-🚀 **Turning ideas into scalable, high-performance backend systems**
+- 💻 **Full-Stack Developer** | 🐍 **Backend Specialist**  
+-⚡ **Expert in Django & Django REST Framework (DRF)**  
+- 🏆 **Top 10 Young Developers in Iran**  
+- 🚀 **Turning ideas into scalable, high-performance backend systems**
 
