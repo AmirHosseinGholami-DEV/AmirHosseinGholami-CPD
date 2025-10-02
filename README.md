@@ -104,6 +104,14 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SinaFirouzan.SinaFirouzan&left_text=Visitors"  />
+</div>
+
+###
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/SinaFirouzan/sinaFirouzan/output/snake.svg" alt="Snake animation" />
