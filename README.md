@@ -18,3 +18,12 @@
 - 🏆 **Top 10 Young Developers in Iran**  
 - 🚀 **Turning ideas into scalable, high-performance backend systems**
 
+###
+
+<h1 align="left">🚀 What I Do?</h1>
+
+###
+- 🔧 **Design and implement scalable APIs for full-stack applications**  
+- 🏗️ **Build robust backend architectures that handle complex workflows**  
+- 🗄️ **Optimize database management and ensure high-performance systems**
+- 🐍 **Solve challenging problems with clean, maintainable, and efficient code**
