@@ -1,21 +1,4 @@
-Amir Hossein Gholami
-===============================
-
-Programmer and Web developer
------------------------------
-
-Hello dear users <br>
-My name is Amir Hossein Gholami. <br>
-I have been working as a programmer for 2 years <br> and I have become very professional in this field and now I am doing advanced projects.
-
-Area
------------------------------
-*   Web Programmer And Developer
-*   Android Programmer And Developer
-*   Desktop Programmer And Developer
-*   Cross Platform Developer
-                  
-Contact Me
------------------------------
-*   phone number:  (+98) 9301660591
-*   Email:  amirhosseingholami918@gmail.com
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=HI+PROGRAMMERS+IM+KING+REZA" alt="Typing SVG" /></a>
+<img src="webdevelopment10.gif" align="right" alt="" width="490" height="400">
+<h1 align="center">Hi 👋, I'm Reza Amin</h1>
+<h3 align="center">A passionate backend developer from Iran</h3>
