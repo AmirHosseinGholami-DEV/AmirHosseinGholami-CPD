@@ -101,3 +101,11 @@
 </div>
 
 ###
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/SinaFirouzan/sinaFirouzan/output/snake.svg" alt="Snake animation" />
+
+###
