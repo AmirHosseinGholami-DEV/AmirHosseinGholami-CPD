@@ -87,8 +87,6 @@
 - 🚀 **Continuously learning, experimenting, and pushing limits**  
 - 💪 **Turning challenges into opportunities for growth**
 
-## 📬 Contact
-
 <h1 align="left">📬 Contact:</h1>
 
 ###
