@@ -5,4 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parsapap&label=Profile%20views&color=0e75b6&style=flat" alt="parsapap" /> </p>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<h1 align="left">👋 Hello, I'm Masoud Ghasemi</h1>
+
+###
+
+**Backend and AI Developer** with expertise in designing and implementing **scalable APIs, database management**, and developing **robust architectures using Python**.
+Proven track record in building **machine learning models with over 98% accuracy** in **image processing** and **medical diagnostics**, utilizing **TensorFlow, Keras, and Scikit-learn**.
+Eager to collaborate in **innovative teams** to develop **intelligent and scalable** systems in the fields of **data analytics** and **backend services**.
+
