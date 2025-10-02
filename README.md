@@ -9,11 +9,9 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
 </div>
 
-<h1 align="left">👋 Hello, I'm Masoud Ghasemi</h1>
+<h1 align="left">👋 Hello, I'm Amir Hossein Gholami</h1>
 
 ###
 
-**Backend and AI Developer** with expertise in designing and implementing **scalable APIs, database management**, and developing **robust architectures using Python**.
-Proven track record in building **machine learning models with over 98% accuracy** in **image processing** and **medical diagnostics**, utilizing **TensorFlow, Keras, and Scikit-learn**.
-Eager to collaborate in **innovative teams** to develop **intelligent and scalable** systems in the fields of **data analytics** and **backend services**.
+💻 Full-Stack Developer | 🐍 Backend Specialist
 
