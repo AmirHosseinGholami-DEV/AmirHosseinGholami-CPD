@@ -20,10 +20,19 @@
 
 ###
 
-<h1 align="left" style="margin-top:130px">🚀 What I Do?</h1>
+<h1 align="left">🚀 What I Do?</h1>
 
 ###
 - 🔧 **Design and implement scalable APIs for full-stack applications**  
 - 🏗️ **Build robust backend architectures that handle complex workflows**  
 - 🗄️ **Optimize database management and ensure high-performance systems**
 - 🐍 **Solve challenging problems with clean, maintainable, and efficient code**
+
+###
+
+<h1 align="left">🌟 Achievements:</h1>
+
+###
+- 🏆 **Ranked among the Top 10 Young Developers in Iran (WordSkills & Khwarizmi Festival)**  
+- ✅ **Delivered multiple full-stack projects with high-quality backend systems**  
+- 💡 **Constantly exploring new frameworks, tools, and technologies to stay ahead**
